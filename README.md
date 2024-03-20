@@ -3,11 +3,11 @@
   <img src="https://jilldennison.files.wordpress.com/2017/07/monday-flutter-bird-2.gif" width="1000"/>
 </div>
 
-- 🔭 I’m currently working on <b>Flutter</b>
+- 🔭 I’m currently working on <b>Flutter, SwiftUI</b>
  
-- 🌱 I’m currently learning <b>Flutter, Firebase</b>
+- 🌱 I’m currently learning <b>SwiftUI</b>
  
-- 💬 Ask me about <b>Flutter, Firebase</b>
+- 💬 Ask me about <b>Flutter, Firebase, IOS App Developmeent</b>
  
 - ⚡  Fun fact You can spell World Wide Web faster than WWW 😛
  

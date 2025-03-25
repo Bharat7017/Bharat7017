@@ -3,7 +3,7 @@
   <img src="https://jilldennison.files.wordpress.com/2017/07/monday-flutter-bird-2.gif" width="1000"/>
 </div>
 
-- 🔭 I’m currently working on <b>Flutter, SwiftUI</b>
+- 🔭 I’m currently working on <b>Full Stack Application</b>
  
 - 🌱 I’m currently learning <b>SwiftUI</b>
  
